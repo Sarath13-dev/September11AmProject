@@ -129,6 +129,7 @@ static WebDriver driver;
 		Cell createCell = createRow.createCell(cellindex);
 		createCell.setCellValue(value);	
 		w.write(stream);
+		System.out.println("test2");
 	}
 	
 	
