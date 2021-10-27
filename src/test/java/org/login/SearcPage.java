@@ -33,7 +33,7 @@ public class SearcPage extends BaseClass{
 	public WebElement getRoomtype() {
 		return roomtype;
 	}
-	
+
 	
 	
 }
